@@ -1,0 +1,39 @@
+/* Blue */
+.c-1 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(79, 100, 167 / var(--tw-bg-opacity));
+}
+
+/* Green */
+.c-2 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(73, 191, 81 / var(--tw-bg-opacity));
+}
+
+/* Yellow */
+.c-3 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(242, 203, 4 / var(--tw-bg-opacity));
+}
+
+/* Orange */
+.c-4 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(241, 131, 34 / var(--tw-bg-opacity));
+}
+
+/* Red */
+.c-5 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(242, 79, 80 / var(--tw-bg-opacity));
+}
+
+@font-face {
+    font-family: "DIN-Condensed";
+    /* src: url(../fonts/DIN-Condensed-Bold-2.ttf); */
+    src: url(../fonts/DIN-Condensed-Bold-2.min.ttf);
+}
+
+.font-din {
+    font-family: "DIN-Condensed";
+}
